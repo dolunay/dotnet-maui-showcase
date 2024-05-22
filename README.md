@@ -4,6 +4,30 @@ A curated list of awesome **.NET MAUI** open source samples to show how to creat
 
 Contributions are always welcome!
 
+## [MyFinance](https://github.com/gonultasmf/MyFinance)
+
+It is a beautifully designed Finance application for .NET MAUI Markup(No XAML) enthusiasts. Made with [FmgLib.MauiMarkup](https://github.com/FmgLib/FmgLib.MauiMarkup).
+
+## Images Preview
+![Project mockup](/images/MyFinance.jpg)
+
+## Platforms
+iOS, Android
+
+## Features
+- FmgLib.MauiMarkup
+- SQLite
+- NET MAUI Community Toolkit
+- Community Toolkit Mvvm
+- DevExpress Maui
+- LiveCharts
+- AutoMapper
+- MVVM
+
+## More Information
+- Author: [Mustafa Gönültaş](https://github.com/gonultasmf)
+- Source Code: https://github.com/gonultasmf/MyFinance
+
 ## [WeightTracker](https://github.com/fdmomtaz/WeightTracker-DotNetMaui)
 
 A simple, user-friendly .NET MAUI weight tracker app with a clean design for anyone looking to explore .NET MAUI development.
